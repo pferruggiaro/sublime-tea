@@ -1,0 +1,5 @@
+[{
+  "id": "GotoTeaDefinition",
+  "caption": "Goto Definition: Tea",
+  "command": "goto_tea_definition"
+}]

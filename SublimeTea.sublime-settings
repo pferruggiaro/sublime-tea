@@ -1,0 +1,18 @@
+{
+	"template_paths": [
+		{
+			"name": "espn360-butler",
+			"path" : "/Users/ferruggp/workspace/watch.espn-templates/espn360-butler/src/main/resources",
+			"include-paths": [
+				"/Users/ferruggp/workspace/watch.espn-templates/includes/src/main/resources"
+			]
+		},
+		{
+			"name": "auth-butler",
+			"path": "/Users/ferruggp/workspace/watch.espn-templates/auth-butler/src/main/resources",
+			"include-paths": [
+				"/Users/ferruggp/workspace/watch.espn-templates/includes/src/main/resources"
+			]
+		}
+	]
+}

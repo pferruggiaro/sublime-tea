@@ -1,0 +1,5 @@
+[
+  {
+    "keys": ["alt+super+down"], "command": "goto_tea_definition"
+  }
+]
