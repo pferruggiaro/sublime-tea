@@ -1,17 +1,17 @@
 {
 	"template_paths": [
 		{
-			"name": "espn360-butler",
-			"path" : "/Users/me/workspace/watch.espn-templates/espn360-butler/src/main/resources",
+			"name": "group-one",
+			"path" : "/Users/me/workspace/my-templates-repo/360-but/src/main/resources",
 			"include-paths": [
-				"/Users/me/workspace/watch.espn-templates/includes/src/main/resources"
+				"/Users/me/workspace/my-templates-repo/includes/src/main/resources"
 			]
 		},
 		{
-			"name": "auth-butler",
-			"path": "/Users/me/workspace/watch.espn-templates/auth-butler/src/main/resources",
+			"name": "group-two",
+			"path": "/Users/me/workspace/my-templates-repo/auth-but/src/main/resources",
 			"include-paths": [
-				"/Users/me/workspace/watch.espn-templates/includes/src/main/resources"
+				"/Users/me/workspace/my-templates-repo/includes/src/main/resources"
 			]
 		}
 	]
